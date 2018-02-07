@@ -1,0 +1,37 @@
+
+	body {
+	background-image: url("OAGzT3x.jpg");
+	}
+	.informationDiv {
+		border:5px solid red;
+		background-color:black;
+		color: #FF0000;
+		width:90%;
+		margin:auto;
+	}
+	.leftcol {
+
+		border:5px solid ;
+		background-color:black;
+		color: #00FF00;
+		width:25%;
+		margin:auto;
+		float:left;
+	}
+	.rightcol {
+
+		border:5px solid purple;
+		background-color:black;
+		color: purple;
+		width:70%;
+		margin:auto;
+		float:right;
+	}
+	a {
+		color:hotpink;
+	}
+	.stylishimage {
+		max-width:100%;
+		max-height:auto;
+
+	}
