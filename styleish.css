@@ -2,6 +2,10 @@
 	body {
 	background-image: url("OAGzT3x.jpg");
 	}
+	div {
+		box-shadow: 10px 10px 5px rgba(0,0,0,.5);
+		padding-left: 16px;
+	}
 	.informationDiv {
 		border:5px solid red;
 		background-color:black;
